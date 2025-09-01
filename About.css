@@ -1,0 +1,31 @@
+/* src/styles/About.css */
+.about-container {
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.about-intro {
+  font-size: 1.1rem;
+  color: #4b5563;
+  margin-bottom: 40px;
+}
+
+.about-section {
+  margin-bottom: 32px;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.05);
+}
+
+.about-section h3 {
+  color: #15803d;
+  margin-bottom: 12px;
+}
+
+.about-section p {
+  color: #374151;
+  font-size: 1rem;
+}
